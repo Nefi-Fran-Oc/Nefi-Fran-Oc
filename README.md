@@ -75,11 +75,3 @@ I combine data analytics with project-oriented thinking to solve real-world prob
 * Integrating data analytics into project environments
 
 ---
-
-## 📫 Contact
-
-<p>
-  <a href="[https://www.linkedin.com/in/TU_LINK](https://www.linkedin.com/in/nefi-francisco/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
